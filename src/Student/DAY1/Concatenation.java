@@ -1,4 +1,4 @@
-package Student;
+package DAY1;
 
 public class Concatenation {
     public static void main(String[] args) {
